@@ -47,4 +47,5 @@ input.addEventListener("input", (event) => {
   }
 });
 
+
 btn.addEventListener("click", checkPalindrome);
